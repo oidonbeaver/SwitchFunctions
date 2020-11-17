@@ -97,15 +97,15 @@ void changeday(){
 
 void report(){
     SwitchControlLibrary().PressButtonX();
-    delay(100);
+    delay(70);
     SwitchControlLibrary().ReleaseButtonX();
     delay(1000);
     SwitchControlLibrary().PressButtonR();
-    delay(100);
+    delay(70);
     SwitchControlLibrary().ReleaseButtonR();
     delay(1000);
     SwitchControlLibrary().PressButtonA();
-    delay(100);
+    delay(70);
     SwitchControlLibrary().ReleaseButtonA();
     delay(5500);
     

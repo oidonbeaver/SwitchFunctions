@@ -16,6 +16,6 @@
 
 void homepush();
 void changeday();
-void report();
+// void report();
 
 #endif
